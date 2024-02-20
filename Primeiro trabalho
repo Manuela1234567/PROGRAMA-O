@@ -1,0 +1,13 @@
+1-	Em TI arquivo é determinado como um local objetivado a guardar dados, possuindo as extensões onde vários programas abrem e precisam deles para continuar a executar.
+Já na ótica da programação o sistema de arquivo é um conjunto estrutural lógico, feito por software, que possibilita ao sistema operacional ter acesso aos dados que foram armazenados no
+disco. Em programação, podemos criar arquivos ou abrir, gravar, fechar e deletar. Aqui tudo que se abre em arquivo tem que fechar pois senão dá erro de compilação.
+1.1	– O arquivo de texto é uma espécie de fichamento informático estruturado como uma sequência de linhas. O arquivo-texto é uma espécie de recipiente, 
+enquanto texto plano refere-se a uma espécie de conteúdo.
+Esse tipo de arquivo é considerado simples e é comummente usado para armazenar informações e evitar alguns problemas encontrados em outros ficheiros como extremidade, padding bytes, ou 
+diferenças no número de bytes em uma máquina word. Uma desvantagem desse formato é que ele ocupa mais espaço do que o necessário. 
+2-	Armazenam os dados necessários no algoritmo. Os dados podem ser de tipos diferentes e, por isso é necessário mostrar ao algoritmo desde o início o que esperar armazenar.
+Sua importância se estrutura no armazenamento de dados, flexibilidade, reutilização de códigos, interatividade, manipulação de dados e controle de fluxo. 
+As variáveis possuem características, sendo elas: Tipagem; Escopo; Declaração e atribuição; Manipulação de valores e nomes significativos.   
+3-	Um servidor é uma solução tecnológica capaz de executar programas de forma centralizada, podendo, também, armazenar e compartilhar arquivos, administrar filas de impressão e prestar 
+algum tipo de serviço para vários computadores, através de uma rede local ou remota. 
+4-	https://github.com/Manuela1234567/Maria
