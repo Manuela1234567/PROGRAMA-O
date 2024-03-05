@@ -1,1 +1,12 @@
-trab.
+Código de repetição: 
+for i in range(10):
+    print("valor de i: " + str(i))
+
+Código de tomada de decisão:
+A = 20
+B = 10
+
+if B > A:
+    print("B é maior que A")
+else:
+    print("A é maior que B")
