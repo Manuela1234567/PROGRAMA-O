@@ -1,4 +1,4 @@
-Código de implementasção do algoritmo de ordenação Bubble Sort usando python
+1 - Código de implementasção do algoritmo de ordenação Bubble Sort usando python
 def bubble_sort(arr):
     n = len(arr)
     # Percorre todos os elementos do array
@@ -16,3 +16,11 @@ bubble_sort(arr)
 print("Array ordenado usando Bubble Sort:")
 for i in range(len(arr)):
     print("%d" % arr[i], end=" ")
+
+
+2- Código vogais
+def vogais (str):
+    for c in str:
+        if c in "aeiou":
+            print(c)
+vogais ("arvore")
