@@ -31,4 +31,4 @@ print("O primeiro número é maior que o segundo:", primeiro_maior)
 maior_numero = max(numeros)
 print("O maior número é:", maior_numero)
 
-LEMBRETE : TEM QUE COLOCAR NO SPYDER
+
