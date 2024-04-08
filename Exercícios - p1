@@ -1,0 +1,219 @@
+1 - O direito regula as interações sociais e a computação permeia e viabiliza essa interação. Conhecer os fundamentos da computação é importante para atender bem dentro do direito. 
+
+2 - Algoritmo: 
+Conjunto de instruções para uma tarefa específica.
+Passos bem definidos para resolver um problema.
+Base de todo o software e operações de computadores.
+
+Nuvem (Computação em Nuvem):
+Entrega de serviços de computação pela internet.
+Recursos como armazenamento e software sob demanda.
+Acesso remoto a recursos sem a necessidade de infraestrutura local.
+
+Servidor:
+Computador dedicado que fornece dados e serviços.
+Gerencia e armazena dados.
+Responde a solicitações de outros dispositivos na rede.
+
+Neutralidade da Rede:
+Princípio de tratar todos os dados na internet de forma igualitária.
+Sem discriminação por tipo de conteúdo, origem ou destino.
+Evita que provedores restrinjam ou favoreçam certos conteúdos.
+
+Arquivo:
+Unidade básica de armazenamento de dados.
+Armazena textos, imagens, vídeos, programas, etc.
+Organizado em pastas e diretórios.
+Identificado por um nome único para acesso e manipulação.
+
+
+3- Máquinas (Dispositivos):
+
+Na internet, as máquinas referem-se aos dispositivos conectados, como computadores, smartphones, servidores, roteadores, entre outros.
+Cada uma dessas máquinas possui um endereço único na rede, conhecido como endereço IP (Protocolo de Internet).
+Esses dispositivos são o ponto de partida e destino das informações que são transmitidas pela internet.
+
+Cabos e Infraestrutura Física:
+
+Para que as máquinas se comuniquem, são necessários meios físicos de transmissão, como cabos de fibra óptica, cabos de cobre e redes sem fio.
+A infraestrutura física inclui os cabos submarinos que conectam continentes, os cabos terrestres que conectam cidades e edifícios, além dos equipamentos como roteadores e switches que direcionam o tráfego.
+
+Programas e Protocolos:
+
+Os programas são o conjunto de instruções que permitem que os dispositivos na internet interajam entre si.
+Protocolos, como o TCP/IP (Protocolo de Controle de Transmissão/Protocolo de Internet), são conjuntos de regras que garantem a comunicação eficaz e padronizada entre esses dispositivos.
+Os programas de aplicativos, como navegadores da web, clientes de e-mail, aplicativos de mídia social, são usados para acessar e interagir com os serviços disponíveis na internet.
+
+Dados:
+
+Os dados são o conteúdo que é transmitido pela internet.
+Isso pode incluir informações, como textos, imagens, vídeos, arquivos de áudio, entre outros.
+Os dados são transmitidos em pacotes de informações que viajam pela rede de acordo com os protocolos estabelecidos.
+
+4 - Automação de Tarefas Repetitivas, Armazenamento de Dados, Velocidade e Eficiência, entre outros. 
+
+5- Interpretação e Transparência, Viés e Discriminação, Falta de Contexto e Intuição Humana. Sistemas Baseados em Regras,
+Árvores de Decisão, Modelos Explicáveis de Aprendizado de Máquina e Sistemas Híbridos. 
+Nos Modelos Explicáveis de Aprendizado de Máquina, há uma crescente ênfase em criar modelos de IA que sejam explicáveis, ou seja, que possam fornecer razões claras para suas decisões.
+Alguns exemplos incluem modelos como LIME (Local Interpretable Model-agnostic Explanations) e SHAP (SHapley Additive exPlanations), que ajudam a explicar as previsões de modelos de aprendizado de máquina.
+
+6 - Arquivo Binário:
+
+Um arquivo binário contém dados em uma forma que não é diretamente legível por humanos.
+Os dados são armazenados em linguagem binária, ou seja, em formato de zeros (0s) e uns (1s).
+Este formato é o padrão para arquivos de programas executáveis, imagens, vídeos, arquivos de áudio, bancos de dados, planilhas, entre outros.
+Arquivos binários podem conter uma variedade de tipos de dados, desde instruções de programa até dados brutos de imagem ou som.
+
+Arquivo de Texto:
+
+Um arquivo de texto contém dados que são legíveis diretamente por humanos.
+Os dados são armazenados em um formato que representa caracteres alfanuméricos e símbolos, como letras, números e pontuações.
+Este formato é usado para documentos simples de texto, como arquivos de código-fonte, documentos de texto simples (como .txt), scripts, etc.
+Arquivos de texto podem ser lidos e editados usando editores de texto simples, como o Bloco de Notas no Windows ou o TextEdit no macOS.
+
+7-Formato proprietário:Propriedade e Controle, Uso restrito, é dependente , e possui compatibilidade limitada. 
+Formato aberto:Livre Acesso e Uso,Transparência e Interoperabilidade, é indeopendente e pode ser atualizado com muito
+mais facilidade.
+No contexto da divulgação o formato proprietário limita o acesso e a compreensão dos dados por parte do público, possui alta barreira de custos para acessar e utiliza-lo e para fazer sua manutenção dos dados. Já no formato aberto, possui mais transparência, fácil acesso e compartilhamento e a manutenção é mais baratal.
+
+
+8- Protocolo de Comunicação Aberto:
+Definição Pública e Acesso Livre:
+
+Um protocolo de comunicação aberto é aquele cuja especificação é pública e livremente acessível para qualquer pessoa.
+Pode ser implementado por qualquer desenvolvedor sem restrições significativas.
+Transparência e Padronização:
+
+Promove a transparência, já que todas as informações sobre como o protocolo funciona estão disponíveis publicamente.
+Geralmente é padronizado por organizações independentes ou órgãos de padronização, como a IETF (Internet Engineering Task Force).
+Interoperabilidade:
+
+Favorece a interoperabilidade entre diferentes sistemas e dispositivos, pois todos podem seguir as mesmas regras para comunicação.
+Isso significa que aplicativos desenvolvidos por diferentes empresas ou indivíduos podem se comunicar sem problemas.
+Inovação e Competição:
+
+Encoraja a inovação, pois qualquer pessoa pode criar novos aplicativos, serviços e dispositivos que usam o protocolo.
+Promove a competição saudável, já que várias implementações do protocolo podem existir, permitindo aos usuários escolher o que melhor atende às suas necessidades.
+Protocolo de Comunicação Proprietário:
+Propriedade e Controle Restrito:
+
+Um protocolo de comunicação proprietário é de propriedade e controle de uma única entidade, geralmente uma empresa.
+A empresa decide quem pode usar o protocolo e pode impor restrições, como taxas de licença ou aprovação prévia para implementação.
+Limitações de Acesso e Desenvolvimento:
+
+Acesso restrito à especificação do protocolo, o que pode limitar o número de pessoas e empresas que podem implementá-lo.
+Desenvolvimento de novas aplicações fica restrito à empresa proprietária, pois outros não têm permissão para criar implementações compatíveis.
+Dependência e Barreiras Econômicas:
+
+Os usuários e desenvolvedores podem ficar dependentes da empresa proprietária para atualizações, suporte e futuras versões.
+Barreiras econômicas, como taxas de licenciamento, podem impedir o acesso e a inovação por parte de pequenas empresas e desenvolvedores independentes.
+Contexto da Liberdade Econômica e Desenvolvimento de Novas Aplicações:
+Protocolo de Comunicação Aberto:
+
+Favorece a liberdade econômica ao permitir que qualquer pessoa entre no mercado com suas próprias implementações e serviços baseados no protocolo.
+Encoraja o desenvolvimento de novas aplicações e serviços, promovendo um ambiente de inovação e competição saudável.
+Protocolo de Comunicação Proprietário:
+
+Pode criar barreiras à entrada para novos participantes no mercado, devido a custos de licenciamento e restrições de implementação.
+Limita a capacidade de desenvolvedores independentes e empresas de inovar e competir, pois estão presos às restrições impostas pelo proprietário do protocolo.
+
+
+9- a - -Um sistema operacional (SO) é um software fundamental que gerencia recursos de hardware e fornece serviços para programas de aplicativos.
+Ele atua como uma camada intermediária entre o hardware do computador (como processador, memória, dispositivos de entrada/saída) e os programas de aplicativos.
+Funções de um sistema operacional:
+Gerenciamento de recursos: Alocação de CPU, memória, disco e outros recursos.
+Controle de dispositivos: Comunicação com periféricos como teclado, mouse, impressoras.
+Execução de programas: Inicializa, executa e finaliza programas.
+Interface de usuário: Fornece uma interface para interação com o usuário, como GUI (interface gráfica do usuário) ou CLI (interface de linha de comando).
+
+b)Não, existem vários sistemas operacionais disponíveis, cada um com suas características e propósitos específicos.
+Exemplos comuns incluem:
+Windows (da Microsoft), usado em muitos computadores pessoais.
+macOS (da Apple), usado em computadores Mac.
+Linux, uma família de sistemas operacionais de código aberto usada em muitos servidores e dispositivos embarcados.
+Android (baseado em Linux), usado em smartphones e tablets.
+A escolha do sistema operacional depende das necessidades do usuário e do tipo de dispositivo.
+
+c) Não. Existe a possibilidade de baixar outros sistemas, pode-se considerar o sistema já baixado como uma sugestão mas não é obrigatório o uso. 
+
+
+
+10 - a) Sim, a LGPD (Lei Geral de Proteção de Dados), que é a legislação brasileira para proteção de dados pessoais, tem uma abrangência que pode incluir datacenters localizados em países estrangeiros.
+A LGPD se aplica a qualquer operação de tratamento de dados realizada por pessoa natural ou jurídica, de direito público ou privado, com sede no Brasil ou que ofereça serviços ou produtos no país, independentemente do local onde os dados são armazenados.
+Isso significa que se uma empresa brasileira armazena dados de cidadãos brasileiros em um datacenter estrangeiro, essa empresa ainda é responsável pelo tratamento desses dados de acordo com as disposições da LGPD.
+
+
+b.1)A maneira como os servidores de aplicação lidam com conteúdo em desacordo com suas regras de comunidade pode variar dependendo das políticas e procedimentos específicos de cada plataforma.
+Muitas plataformas têm regras de comunidade ou termos de serviço que proíbem certos tipos de conteúdo, como discurso de ódio, bullying, violência, entre outros.
+Os servidores de aplicação geralmente têm sistemas automatizados e equipes dedicadas para monitorar e remover conteúdo que viola essas regras.
+No entanto, sempre há desafios em escala, especialmente em plataformas com grande volume de conteúdo gerado pelo usuário, e alguns conteúdos em desacordo podem passar despercebidos.
+
+b.2)Mais uma vez, a resposta depende das políticas e procedimentos específicos da plataforma.
+Plataformas de aplicativos geralmente têm políticas contra conteúdo difamatório ou falso que possa prejudicar a reputação de alguém.
+A detecção de conteúdo falso pode ser mais desafiadora, pois pode envolver a verificação de fatos e o contexto do conteúdo.
+Além dos sistemas automatizados, muitas plataformas também dependem de denúncias de usuários para identificar conteúdo prejudicial.
+As plataformas podem remover conteúdo considerado falso ou prejudicial à reputação, mas a eficácia dessas medidas pode variar.
+
+
+
+11- a) for: Bloco de código a ser repetido para cada elemento.
+while: Bloco de código que repete enquanto a condição for verdadeira.
+
+b)Identação: Define o início e o fim de um bloco.
+
+c)Concatenação de strings: Junta 2 conjuntos ordenados de caracteres em um só
+Adição de números: Realiza a adição entre valores.
+
+d) Função é um bloco de código reutilizável que realiza uma tarefa específica, fundamental para organizar o código o  tornando mais modular e legível. 
+
+e)Definida como "def", seguida do nomme da função e seus parâmetros, seguido por ":" que indica o início do bloco.
+
+f)if-else:
+
+Utilizado para tomar uma decisão com base em uma condição.
+Sintaxe:
+python
+Copy code
+idade = 20
+if idade >= 18:
+    print("Você é maior de idade.")
+else:
+    print("Você é menor de idade.")
+if-elif-else:
+
+Permite testar várias condições sequencialmente.
+Sintaxe:
+python
+Copy code
+nota = 70
+if nota >= 90:
+    print("Aprovado com A")
+elif nota >= 80:
+    print("Aprovado com B")
+elif nota >= 70:
+    print("Aprovado com C")
+else:
+    print("Reprovado")
+Operador ternário (uma forma compacta de if-else):
+
+Sintaxe:
+python
+Copy code
+status = "aprovado" if nota >= 70 else "reprovado"
+print(status)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
