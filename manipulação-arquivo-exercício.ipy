@@ -1,0 +1,12 @@
+def gravar_nome_em_arquivo():
+    nome = input("Por favor, digite seu nome: ")
+    
+    # Abrindo o arquivo em modo de escrita ('w')
+    with open("nome_do_usuario.txt", "w") as arquivo:
+        arquivo.write(nome)
+    
+    print("Nome gravado com sucesso no arquivo 'nome_do_usuario.txt'.")
+
+# Chamando a função para gravar o nome do usuário no arquivo
+gravar_nome_em_arquivo()
+
